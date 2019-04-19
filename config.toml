@@ -1,0 +1,14 @@
+baseurl = "/"
+languageCode = "da"
+title = "langbjerg"
+author = ["Rikke Barsten", "Torsten Lauridsen"]
+canonifyurls = true
+paginate = 5
+theme = "aether"
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[params]
+# brand = "langbjerg"
+description = "Livet på langbjergvej"
+bgimg = "img/background-image-beautiful-blur.jpg"
