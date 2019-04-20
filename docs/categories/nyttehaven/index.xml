@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nyttehaven - langbjerg</title>
-    <link>/langbjerg/categories/nyttehaven/</link>
+    <link>https://rikkebarsten.github.io/langbjerg/categories/nyttehaven/</link>
     <description>Recent content in Nyttehaven on langbjerg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da</language>
     <lastBuildDate>Sat, 20 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="/langbjerg/categories/nyttehaven/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rikkebarsten.github.io/langbjerg/categories/nyttehaven/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hvorfor</title>
-      <link>/langbjerg/post/2019-04-20-hvorfor/</link>
+      <link>https://rikkebarsten.github.io/langbjerg/post/2019-04-20-hvorfor/</link>
       <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/langbjerg/post/2019-04-20-hvorfor/</guid>
+      <guid>https://rikkebarsten.github.io/langbjerg/post/2019-04-20-hvorfor/</guid>
       <description>Hvorfor vil jeg bruge tid på at dyrke min egen mad?</description>
     </item>
   </channel>
