@@ -3,40 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rikkebarsten.github.io/langbjerg/categories/</loc>
+    <loc>/langbjerg/categories/</loc>
     <lastmod>2019-04-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rikkebarsten.github.io/langbjerg/post/2019-04-20-hvorfor/</loc>
+    <loc>/langbjerg/post/2019-04-20-hvorfor/</loc>
     <lastmod>2019-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rikkebarsten.github.io/langbjerg/categories/nyttehaven/</loc>
-    <lastmod>2019-04-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rikkebarsten.github.io/langbjerg/post/</loc>
+    <loc>/langbjerg/categories/nyttehaven/</loc>
     <lastmod>2019-04-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rikkebarsten.github.io/langbjerg/</loc>
+    <loc>/langbjerg/post/</loc>
+    <lastmod>2019-04-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/langbjerg/</loc>
     <lastmod>2019-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rikkebarsten.github.io/langbjerg/about/</loc>
+    <loc>/langbjerg/about/</loc>
     <lastmod>2019-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rikkebarsten.github.io/langbjerg/tags/</loc>
+    <loc>/langbjerg/tags/</loc>
     <priority>0</priority>
   </url>
   
