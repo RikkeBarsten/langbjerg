@@ -7,6 +7,7 @@ paginate = 5
 theme = "aether"
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+publishDir = "docs"
 
 [params]
 # brand = "langbjerg"

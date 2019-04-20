@@ -1,0 +1,21 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts - langbjerg</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on langbjerg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>da</language>
+    <lastBuildDate>Sat, 20 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hvorfor</title>
+      <link>/post/2019-04-20-hvorfor/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019-04-20-hvorfor/</guid>
+      <description>Hvorfor vil jeg bruge tid på at dyrke min egen mad?</description>
+    </item>
+  </channel>
+</rss>
