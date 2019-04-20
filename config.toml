@@ -11,4 +11,4 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
 # brand = "langbjerg"
 description = "Livet på langbjergvej"
-bgimg = "img/background-image-beautiful-blur.jpg"
+bgimg = "img/light_honeycomb.png"
