@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://rikkebarsten.github.io/langbjerg/"
 languageCode = "da"
 title = "langbjerg"
 author = ["Rikke Barsten", "Torsten Lauridsen"]
