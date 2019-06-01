@@ -10,6 +10,8 @@ author = ["Rikke Barsten", "Torsten Lauridsen"]
 canonifyurls = true
 paginate = 5
 theme = "aether"
+disqusShortname = "langbjerg"
+
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 publishDir = "docs"
