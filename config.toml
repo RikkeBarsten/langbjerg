@@ -1,3 +1,8 @@
+
+# For preview:
+#baseurl = "/"
+
+# For production
 baseurl = "https://rikkebarsten.github.io/langbjerg/"
 languageCode = "da"
 title = "langbjerg"
