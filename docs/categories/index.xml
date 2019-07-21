@@ -5,23 +5,23 @@
     <description>Recent content in Categories on langbjerg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da</language>
-    <lastBuildDate>Thu, 04 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2019 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://rikkebarsten.github.io/langbjerg/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Nyttehaven</title>
+      <link>https://rikkebarsten.github.io/langbjerg/categories/nyttehaven/</link>
+      <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rikkebarsten.github.io/langbjerg/categories/nyttehaven/</guid>
+      <description></description>
+    </item><item>
       <title>Hyggehaven</title>
       <link>https://rikkebarsten.github.io/langbjerg/categories/hyggehaven/</link>
       <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://rikkebarsten.github.io/langbjerg/categories/hyggehaven/</guid>
-      <description></description>
-    </item><item>
-      <title>Nyttehaven</title>
-      <link>https://rikkebarsten.github.io/langbjerg/categories/nyttehaven/</link>
-      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://rikkebarsten.github.io/langbjerg/categories/nyttehaven/</guid>
       <description></description>
     </item>
   </channel>
