@@ -10,6 +10,13 @@
         <atom:link href="https://rikkebarsten.github.io/langbjerg/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Gårdstenen</title>
+      <link>https://rikkebarsten.github.io/langbjerg/post/g%C3%A5rdstenen/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rikkebarsten.github.io/langbjerg/post/g%C3%A5rdstenen/</guid>
+      <description></description>
+    </item><item>
       <title>Negligerings- og udvælgelseshaven</title>
       <link>https://rikkebarsten.github.io/langbjerg/post/negligerings-og-udv%C3%A6lgelseshaven/</link>
       <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
@@ -37,13 +44,6 @@
       
       <guid>https://rikkebarsten.github.io/langbjerg/post/f%C3%B8r-sydhaven/</guid>
       <description>Udgangspunktet for hyggehaven mod syd</description>
-    </item><item>
-      <title>Hvorfor</title>
-      <link>https://rikkebarsten.github.io/langbjerg/post/2019-04-20-hvorfor/</link>
-      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://rikkebarsten.github.io/langbjerg/post/2019-04-20-hvorfor/</guid>
-      <description>Hvorfor vil jeg bruge tid på at dyrke min egen mad?</description>
     </item>
   </channel>
 </rss>
